@@ -15,5 +15,5 @@ _再斜一下_
     1. 再缩
     2. 再缩
 
-![](untitled.372.jpg#pic_center)
-<img src="untitled.372.jpg" width="50%" height="auto">
+![](untitled.372.jpg#pic_center<img src="untitled.372.jpg" width="50%" height="auto"> ) 
+
