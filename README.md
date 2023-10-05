@@ -16,4 +16,4 @@ _再斜一下_
     2. 再缩
 
 <img src="untitled.372.jpg#pic_center" width="50%" height="auto"> 
-![]()
+![](IMG_0992.jpg#pic_center) 
